@@ -9,5 +9,5 @@ class Car
     @wheel_number - wheel_number
   end
 
-  
+
 end
