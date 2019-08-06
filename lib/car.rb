@@ -9,8 +9,8 @@ class Car
     @wheel_number = wheel_number
   end
 
-  self.go
-  self.fill_up_tank
+  vehicle.go
+  vehicle.fill_up_tank
 
 
 end
